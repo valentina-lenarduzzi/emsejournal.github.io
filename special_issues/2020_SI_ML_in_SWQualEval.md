@@ -4,9 +4,10 @@ A Call for papers to a special issue of the Empirical Software Engineering (EMSE
 
 # Editors of the special issue
 
-- Foutse Khomh (main contact), Polytechnique Montréal, Canada, [foutse.khomh@polymtl.ca](mailto:foutse.khomh@polymtl.ca)
+- Valentina Lenarduzzi (main contact), LUT university, Finland, [valentina.lenarduzzi@lut.fi](mailto:valentina.lenarduzzi@lut.fi)
+- Apotolos Ampatzoglou University of Macedonia, Greece,[apostolos.ampatzoglou@gmail.com](mailto:apostolos.ampatzoglou@gmail.com)
 - Gemma Catolino, Tilburg University, The Netherlands, [g.catolino@tilburguniversity.edu](mailto:g.catolino@tilburguniversity.edu)
-- Pasquale Salza, University of Zurich, Switzerland, [salza@ifi.uzh.ch](mailto:salza@ifi.uzh.ch)
+- Daniel Feitosa, University of Groningen, The Netherlands, [d.feitosa@rug.nl] (mailto:d.feitosa@rug.nl)
 
 # Description of the special issue
 
@@ -36,8 +37,8 @@ Submissions could deal with all aspects of the problem, including, but not limit
 
 # Schedule
 
-- Submission Deadline: 14th of March 2021 (extended from Feb 20th)
-- First Review Notification (target): 20 May 2021
+- Submission Deadline: 30th November 2021 
+- First Review Notification (target): 28 February 2022
 
 # Submission instructions
 
